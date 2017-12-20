@@ -14,5 +14,4 @@ https://github.com/irokko/coding-challenges.git
 Linux:
 * $ cd /var/www/html/
 * $ git clone https://github.com/irokko/coding-challenges.git
-* To test open your browser and navigate to localhost/your/path/javascript-challenges/index.html
-# coding-challenges
+* To test open your browser and navigate to localhost/your/path/coding-challenges/index.html
